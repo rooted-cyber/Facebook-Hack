@@ -49,7 +49,7 @@ ab
 fi
 }
 fr () {
-cd ~/Facebok-Hack/filed
+cd ~/Facebok-Hack/fil*
 dpkg -i *deb
 }
 se() {
