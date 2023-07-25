@@ -9,7 +9,7 @@ ab() {
 	esac
 	}
 	hf() {
-cd ~/Facebook-Hack/hack️
+cd ~/Facebook-Hack/hack
 bash ha.sh
 }
 ban() {
